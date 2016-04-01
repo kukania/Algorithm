@@ -1,13 +1,13 @@
-﻿빌드 시작: 2016-02-16 오전 11:40:18
-     1>2 노드의 "C:\Users\angks\documents\visual studio 2015\Projects\algorithm\algorithm\algorithm.vcxproj" 프로젝트(Build 대상)입니다.
+﻿빌드 시작: 2016-04-01 오후 4:10:28
+     1>2 노드의 "C:\Users\angks\Desktop\git\algorithm\algorithm\algorithm\algorithm.vcxproj" 프로젝트(Build 대상)입니다.
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt acm_2624.cpp
-         acm_2624.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt acm_11728.cpp
+         acm_11728.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\angks\documents\visual studio 2015\Projects\algorithm\Debug\algorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\angks\documents\visual studio 2015\Projects\algorithm\Debug\algorithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\angks\documents\visual studio 2015\Projects\algorithm\Debug\algorithm.lib" /MACHINE:X86 Debug\acm_2624.obj
-         algorithm.vcxproj -> C:\Users\angks\documents\visual studio 2015\Projects\algorithm\Debug\algorithm.exe
-     1>"C:\Users\angks\documents\visual studio 2015\Projects\algorithm\algorithm\algorithm.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\angks\Desktop\git\algorithm\algorithm\Debug\algorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\angks\Desktop\git\algorithm\algorithm\Debug\algorithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\angks\Desktop\git\algorithm\algorithm\Debug\algorithm.lib" /MACHINE:X86 Debug\acm_11728.obj
+         algorithm.vcxproj -> C:\Users\angks\Desktop\git\algorithm\algorithm\Debug\algorithm.exe
+     1>"C:\Users\angks\Desktop\git\algorithm\algorithm\algorithm\algorithm.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
 
 빌드했습니다.
 
-경과 시간: 00:00:00.85
+경과 시간: 00:00:01.17
