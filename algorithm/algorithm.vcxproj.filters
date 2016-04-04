@@ -459,5 +459,11 @@
     <ClCompile Include="acm_11728.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="acm_5218.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="acm_6603.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
