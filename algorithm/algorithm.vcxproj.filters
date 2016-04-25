@@ -489,5 +489,14 @@
     <ClCompile Include="acm_3640.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="acm_11720.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="acm_4821.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="acm_1238.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
